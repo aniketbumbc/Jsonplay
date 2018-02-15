@@ -1,0 +1,11 @@
+{
+  "name": "John",
+  "age": 30,
+  "car": "SKODA",
+  "city": "Pune",
+  "School":{
+           "city":"UMBC",
+           "country":"USA",
+           "pin":21227
+        }   
+}
